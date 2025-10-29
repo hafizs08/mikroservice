@@ -1,11 +1,11 @@
-# 📚 Library Management System – Backend API  
+#  Library Management System – Backend API  
 A RESTful backend API for managing library operations such as authentication, book catalog, loan transactions, and user reviews.  
-Built with **Java Spring Boot**, **Spring Security (JWT)**, **PostgreSQL**, and **MinIO** for file storage.
+Built with **Java Spring Boot**, **Spring Security (JWT)**, **PostgreSQL**,**MongoDB**, and **MinIO** for file storage.
 
 ---
 
-## 🚀 Features
-✅ **User Authentication & Authorization (JWT)** – Login, register, and access control (Admin/User)  
+## Features
+✅ **User Authentication & Authorization (JWT)** – Login, register, and access control   
 ✅ **Book Catalog Management** – CRUD operations with cover image upload to MinIO  
 ✅ **Loan Management** – Borrow and return books with automatic email notifications  
 ✅ **Review System** – Post ratings and comments for books  
